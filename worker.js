@@ -1,5 +1,5 @@
 // ===== Config =====
-const BASE_DOMAIN = "docker.milu.moe";
+const BASE_DOMAIN = "dockerhub-proxy.f-46886799.workers.dev";
 const AUTH_DOMAIN = "auth-" + BASE_DOMAIN;
 const CDN_DOMAIN  = "production-" + BASE_DOMAIN;
 
